@@ -1,0 +1,37 @@
+
+0
+java:S1220""Move this file to a named package.
+R
+java:S2589"7Remove this expression which always evaluates to "true"(øÙÞ¹þÿÿÿÿ
+R
+java:S2589	"7Remove this expression which always evaluates to "true"(ÙéÎ‰ýÿÿÿÿ
+M
+java:S2589"7Remove this expression which always evaluates to "true"(­Ø­•
+R
+java:S2589"7Remove this expression which always evaluates to "true"(°¶–Üûÿÿÿÿ
+_
+java:S2583"DChange this condition so that it does not always evaluate to "false"(ÙéÎ‰ýÿÿÿÿ
+Z
+java:S2583"DChange this condition so that it does not always evaluate to "false"(­Ø­•
+_
+java:S2583"DChange this condition so that it does not always evaluate to "false"(°¶–Üûÿÿÿÿ
+_
+java:S2583"DChange this condition so that it does not always evaluate to "false"(øÙÞ¹þÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ñØ‚“ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(øÙÞ¹þÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(­Ø­•
+D
+java:S1940")Use the opposite operator ("!=") instead.(°¶–Üûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(°¶–Üûÿÿÿÿ
+D
+java:S1940	")Use the opposite operator ("==") instead.(ÙéÎ‰ýÿÿÿÿ
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(ÙéÎ‰ýÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ñØ‚“ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(øÙÞ¹þÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(­Ø­•
+D
+java:S1940")Use the opposite operator ("!=") instead.(°¶–Üûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(°¶–Üûÿÿÿÿ
+D
+java:S1940")Use the opposite operator ("==") instead.(ÙéÎ‰ýÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÙéÎ‰ýÿÿÿÿ
