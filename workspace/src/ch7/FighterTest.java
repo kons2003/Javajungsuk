@@ -1,3 +1,4 @@
+/*
 package src.ch7;
 
 public class FighterTest {
@@ -27,4 +28,4 @@ class Unit {
 }
 interface Fightable extends Moveable, Attackable { }
 interface Moveable { void move(int x, int y); }
-interface Attackable { void attack(Unit u); }
+interface Attackable { void attack(Unit u); }*/
