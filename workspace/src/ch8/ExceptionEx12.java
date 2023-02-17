@@ -1,3 +1,4 @@
+/*
 package src.ch8;
 
 public class ExceptionEx12 {
@@ -13,3 +14,4 @@ public class ExceptionEx12 {
         throw new Exception();
     }
 }
+*/
